@@ -456,6 +456,7 @@ body {
   background-color: blue;
   cursor: pointer;
   margin-top: 50px;
+  transition: .1s;
 }
 
 #formular-btn:active {
