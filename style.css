@@ -89,10 +89,7 @@ body {
 }
 
 #mainMenu a:hover {
-  color: #FF9900;
-  background-color: black;
-  padding: 5px 15px;
-  font-size: 1.25rem;
+  color: blue;
   transition: .3s ease;
 }
 
